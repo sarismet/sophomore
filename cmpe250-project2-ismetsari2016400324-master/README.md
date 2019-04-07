@@ -1,1 +1,1 @@
-this project is to create a airport that every passanger can arrive their plane in the shortest time by ordering then accoring to their the number of baggage considering whether or not they are VIP or thet have onlive ticket.
+this project is to create a airport that every passanger can arrive their plane in the shortest time by ordering then accoring to their the number of baggage considering whether or not they are VIP or thet have onlive ticket.This project can order 25000 people in less than 1 second.
