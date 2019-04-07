@@ -1,1 +1,1 @@
-this project is to understand the c++ and what the pointers do
+this project is to understand the c++, what the pointers do, headter files.
