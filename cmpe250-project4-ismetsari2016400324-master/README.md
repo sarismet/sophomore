@@ -1,2 +1,1 @@
-
-the projects that I had made when I was a freshmen
+think of the buildings constructed by side by and they have generally (not necessarily) the same height and someone determine the two roof and wants to go from one to the other one by using only a ladder.BY this project we determine the minimized height of the ladder by Dijkstra's algorithm 
