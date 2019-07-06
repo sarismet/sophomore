@@ -1,17 +1,20 @@
+This project was designed to take the data of the intervals given by user on the terminal and list the prepared infomations in csv format
+You can run the python file on terminal and type the interval like 2018-Fall 2019-Spring after that the proragram would give you the list of all the deparment names undergraduate and graduate classes classified into every semester
+
 Some Assumptions:
-- We assumed starting and ending semesters will be different in inputs.
-- We assumed course codes without digits (like SFL) are undergraduate.
+- You assume starting and ending semesters will be different in inputs.
+- You assume course codes without digits (like SFL) are undergraduate.
 External Libraries:
-- We used urllib.request, re(regexp module) and BeautifulSoup for handling requests from Web and
+- I used urllib.request, re(regexp module) and BeautifulSoup for handling requests from Web and
 HTML.
 Implementation:
-- We wrote a geturl function that takes a semester and a department and return the urllib
+- I wrote a geturl function that takes a semester and a department and return the urllib
 using regular expressions
-- We wrote a download_info function that takes an url and returns the necessary information about
+- I wrote a download_info function that takes an url and returns the necessary information about
 courses as sets and dictionaries.
-We used BeautifulSoup here to take necessary data from HTML tables.
-- We embedded the department names and codes to our program with a list and a dictionary.
-- We took the input string from console and parsed it to find start and end semesters, then created a list
+I used BeautifulSoup here to take necessary data from HTML tables.
+- I embedded the department names and codes to our program with a list and a dictionary.
+- I took the input string from console and parsed it to find start and end semesters, then created a list
 that contains all semesters between
 start and end semesters.
 - For every semester and every department we called the download_info function, while doing this
