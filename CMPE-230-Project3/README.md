@@ -8,7 +8,7 @@ click the reset button in 9000ms the time will be stop and the related
 slot will be in process
 if the user click reset button the time again 9000ms for user to see the
 table if the user click reset in 9000ms the interval will be again 9000 as
-if we reset it.
+if I reset it.
 The user click two button there is a process to make two button "" or
 concert them their old version so in this interval the lacasadapapel
 variable will be true and after process it will be false
@@ -19,12 +19,12 @@ in the socond windows itself
 Classes FindDialog Newbutton
 I write Newbutton to have some extra bool QString variables and all
 QPushButton properties.
-bool ispressed: we designed to understand if a button is pressed like if
+bool ispressed: I designed to understand if a button is pressed like if
 the button 4 pressed then this will be true and if the user presses again
 reset then the timer will be set to 9000 ms again.
-QString closedstring:it is like the second text of a button.if we create
+QString closedstring:it is like the second text of a button.if I create
 button with letter A then the closedstring X and they will be changed with
 each other
-QStrings hard:this is like ID's of button. we used it after the user click
-reset we set all buttons's text their Ä±d which is hard and then change
+QStrings hard:this is like ID's of button. I used it after the user click
+reset I set all buttons's text their Ä±d which is hard and then change
 with an other button.
