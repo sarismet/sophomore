@@ -1,4 +1,4 @@
-for each project you should give input on you terminal
+For each project starting with CMPE250 you should give input on you terminal
 
 How to compile
 In a terminal, call commands:
