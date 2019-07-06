@@ -1,3 +1,5 @@
+This project has resemblance to the game in http://mypuzzle.org/find-the-pair web site, however if you are here to see the QT code then there are some notes below
+
 Important Notes:
 in this project there are two window. The first window is always open and
 the second one will be open if the user succeeds.
