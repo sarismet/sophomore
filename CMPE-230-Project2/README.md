@@ -1,6 +1,10 @@
 This project was designed to take the data of the intervals given by user on the terminal and list the prepared infomations in csv format
 You can run the python file on terminal and type the interval like 2018-Fall 2019-Spring after that the proragram would give you the list of all the deparment names undergraduate and graduate classes classified into every semester
 
+Sermesters are Fall, Spring and Summer
+
+In order to run the code you need to type bucourses.py interval1 interval2 like bucourses.py 2018-Fall 2019-Spring
+
 Some Assumptions:
 - You assume starting and ending semesters will be different in inputs.
 - You assume course codes without digits (like SFL) are undergraduate.
